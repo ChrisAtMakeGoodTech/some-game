@@ -35,7 +35,7 @@
 
 **Extended Rest:** Gain the benefits of a Standard Rest. You may also have the chance to recover Trauma, spend XP, and work on strongholds and long-term goals. This takes several days and cannot happen when the party is in the middle of an adventure with pressing concerns. (It's hard to relax when the kingdom is days from invasion by dragon riders.) This must also occur in an environment the PC considers comfortable. A ranger may be able to have an Extended Rest camping under the stars deep in the forest, but a bookish wizard may come back needing a vacation from her vacation.
 
-**Rule of Thumb:**
+### Resting Rules of Thumb
 
 | Event | Recovery | Optional Recovery |
 |--|--|--|
@@ -51,13 +51,16 @@
 5. The GM resolves the actions of the round based on intended actions and Action Scores. All actions happen virtually simultaneously. In the event of conflicts where two opposing actions can't both happen (e.g., one character wants to cross a bridge and another character wants to block them), the one with the highest Action Score for the round wins.
 
 ## Standard Actions
-1. **Move Far** (move two zones)
-2. **Move to Attack** (+1) (move one zone, basic attack) *melee attack only*
-3. **Move and Attack** (move one zone, basic attack) *or* (basic attack, then move one zone)
-4. **Attack** (+3)
-5. **Defend** (+2) (glancing hits become misses)
-6. **Defend Other** (+5) (The target you defend can use your Action Score for defense if higher. You must be near the target to defend them from melee attacks or between the target and attacker to defend them from ranged attacks.)
-7. **Flee** (+2) (Move one zone. If you beat an incoming attack by 3 or more, it misses you.)
-8. **Recover (Conscious)** (+2) (spend a healing surge to recover d6 health; on a 6, also recover one Ardor)
-9. **Recover (Incapacitated)** (Roll against Challenge Score to become conscious. d20 - Trauma. Before the roll, you can also choose to spend a Healing Surge to roll a d6 and add it to the result. On success, recover d6 health. On a natural 20, recover 2d6 health.)
-10. **Tend** (The Incapacitated target can choose to take your Action Score for their Recover roll.)
+
+| Action | Bonus | Effect | Restrictions |
+|--|--|--|--|
+| Move Far | 0 | Move 2 |
+| Move to Attack | +1 | Move 1 then Basic Attack | Melee attacks only. |
+| Move and Attack | 0 | Move 1 then Basic Attack; *or* Basic Attack then Move 1 |
+| Attack | +3 | Basic Attack |
+| Defend | +2 | Glancing Hits against you become Misses. |
+| Cover | +5 | The target you defend can use your Action Score for defense. | Must be near target to defend from melee attacks. Must be between target and attacker to defend from ranged attacks. |
+| Flee | +2 | Move 1; If you beat an Attack by 3 or more, it Misses you. |
+| Recover | +2 | Spend a Healing Surge to recover d6. On a 6, also recover one Ardor. | Must be conscious.
+| Recover | 0 | If your Action Score meets the Challenge Score, you are no longer incapacitated and recover d6 health. On a natural 20, recover an additional d6 health. Before the roll, you can choose to spend a Healing Surge to roll a d6 and add it to your Action Score. | Must be incapacitated.
+| Tend | 0 | The Target can use your Action Score for their Recover roll. | Target must be Incapacitated.
