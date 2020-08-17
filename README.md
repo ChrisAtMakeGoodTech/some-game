@@ -1,4 +1,4 @@
 # Rules for some game.
 
-[General Rules](/GeneralRules.md)
-[Characters](/Characters.md)
+1. [General Rules](/GeneralRules.md)
+2. [Characters](/Characters.md)
