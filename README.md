@@ -29,13 +29,19 @@
 
 ## Rests and Breaks
 
-**Short Break:** Recover Ardor. This occurs any time the PC's have a chance to catch their breath after a dangerous encounter. It can happen even while exploring or solving puzzles as long as they aren't doing anything strenuous.
+**Break:** Recover Ardor. This occurs any time the PC's have a chance to catch their breath after a dangerous encounter, and generally only takes a few minutes. It can happen even while exploring or solving puzzles as long as they aren't doing anything strenuous. A PC can fully recover their HP during a Break by using a Healing Kit.
 
-**Long Break:** Gain the benefits of a Short Break and recover HP. This occurs when the PC's stop long enough to catch their breath, tend to injuries, and eat if necessary.
-
-**Standard Rest:** Gain the benefits of a Long Break and regain all Healing Surges. This occurs when the PC's have time to eat, sleep, and tend wounds.
+**Standard Rest:** Gain the benefits of a Break and regain all Healing Surges. This occurs when the PC's have time to eat, sleep, and tend wounds.
 
 **Extended Rest:** Gain the benefits of a Standard Rest. You may also have the chance to recover Trauma, spend XP, and work on strongholds and long-term goals. This takes several days and cannot happen when the party is in the middle of an adventure with pressing concerns. (It's hard to relax when the kingdom is days from invasion by dragon riders.) This must also occur in an environment the PC considers comfortable. A ranger may be able to have an Extended Rest camping under the stars deep in the forest, but a bookish wizard may come back needing a vacation from her vacation.
+
+**Rule of Thumb:**
+
+| Event | Recovery | Optional Recovery |
+|--|--|--|
+| After each encounter | Ardor. | HP by expending Healing Kit. |
+| At the beginning of each adventuring day | Ardor, HP, Healing Surges. | |
+| Between adventures | Ardor, HP, and Healing Surges. | Trauma, spend XP, and work on strongholds and long-term goals. |
 
 ## Round Flow
 1. GM states what every NPC intends to do (or *seems* to intend to do).
