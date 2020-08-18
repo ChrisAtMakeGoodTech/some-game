@@ -42,25 +42,3 @@
 | After each encounter | Ardor. | HP by expending Healing Kit. |
 | At the beginning of each adventuring day | Ardor, HP, Healing Surges. | |
 | Between adventures | Ardor, HP, and Healing Surges. | Trauma, spend XP, and work on strongholds and long-term goals. |
-
-## Round Flow
-1. GM states what every NPC intends to do (or *seems* to intend to do).
-2. NPCs are given a Action Score based on their base Action Score and modified by their intended action and the situation.
-3. All players state what they intend to do.
-4. Every player determines their Action Score by rolling a d20 and adding modifiers (attributes, action modifiers, and any situational bonuses or penalties.)
-5. The GM resolves the actions of the round based on intended actions and Action Scores. All actions happen virtually simultaneously. In the event of conflicts where two opposing actions can't both happen (e.g., one character wants to cross a bridge and another character wants to block them), the one with the highest Action Score for the round wins.
-
-## Standard Actions
-
-| Action | Bonus | Effect | Restrictions |
-|--|--|--|--|
-| Move Far | 0 | Move 2 |
-| Move to Attack | +1 | Move 1 then Basic Attack | Melee attacks only. |
-| Move and Attack | 0 | Move 1 then Basic Attack; *or* Basic Attack then Move 1 |
-| Attack | +3 | Basic Attack |
-| Defend | +2 | Glancing Hits against you become Misses. |
-| Cover | +5 | Defend a Target. The Target can use your Action Score for defense. | Must be near target to defend from melee attacks. Must be between target and attacker to defend from ranged attacks. |
-| Flee | +2 | Move 1; If you beat an Attack by 3 or more, it Misses you. |
-| Recover | +2 | Spend a Healing Surge to recover d6. On a 6, also recover one Ardor. | Must be conscious.
-| Recover | 0 | If your Action Score meets the Challenge Score, you are no longer incapacitated and recover d6 health. On a natural 20, recover an additional d6 health. Before the roll, you can choose to spend a Healing Surge to roll a d6 and add it to your Action Score. | Must be incapacitated.
-| Tend | 0 | The Target can use your Action Score for their Recover roll. | Target must be Incapacitated.
