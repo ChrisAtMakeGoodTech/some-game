@@ -36,7 +36,7 @@ Each map or Zone will have a Challenge Score declared. This indicates the genera
 | Move Far | 0 | Move 2 |
 | Move to Attack | +1 | Move 1 then Basic Attack | Melee attacks only. |
 | Move and Attack | 0 | Move 1 then Basic Attack; *or* Basic Attack then Move 1 |
-| Attack | +3 | Basic Attack |
+| Standing Attack | +3 | Basic Attack |
 | Defend | +2 | Glancing Hits against you become Misses. |
 | Cover | +5 | Defend a Target. The Target can use your Action Score for defense. | Must be near target to defend from melee attacks. Must be between target and attacker to defend from ranged attacks. |
 | Flee | +2 | Move 1; If you beat an Attack by 3 or more, it Misses you. |
