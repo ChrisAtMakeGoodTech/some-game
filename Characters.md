@@ -46,6 +46,6 @@ Derived Attributes directly affect the character's effectiveness in the game wor
 ## Other Attributes
 
 | Attribute | Effect |
-|--|--|--|
+|--|--|
 | **Experience (XP)** | Spend to increase ranks of Core Attributes or to learn and enhance abilities. |
 | **Trauma** | Increases when a character is incapacitated or experiences a traumatic event. Each level of Trauma inflicts a -1 penalty on all d20 rolls. |
