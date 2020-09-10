@@ -43,6 +43,7 @@ Each map or Zone will have a Challenge Score declared. This indicates the genera
 | Recover | +2 | Spend a Healing Surge to recover d6. On a 6, also recover one Ardor. | Must be conscious.
 | Recover | 0 | If your Action Score meets the Challenge Score, you are no longer incapacitated and recover d6 health. On a natural 20, recover an additional d6 health. Before the roll, you can choose to spend a Healing Surge to roll a d6 and add it to your Action Score. | Must be incapacitated.
 | Tend | 0 | The Target can use your Action Score for their Recover roll. | Target must be Incapacitated.
+| Prepare | 0 | +3 Action Score in the next round. |
 
 ## NPC Classes
 
