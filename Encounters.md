@@ -1,4 +1,4 @@
-# Combat
+# Encounters
 
 ## The Field
 
