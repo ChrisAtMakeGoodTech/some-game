@@ -18,7 +18,7 @@ I'm low on health and surrounded by enemies. If I Defend, I'll still be low heal
 
 As above, but change healing surge to d6, d8, or 2d4.
 
-d10 may be too strong if you're also getting the effect of Recover. You could also still roll a 1 on your healing surge. Healing for 1 may not feel like a wasted turn since you still get the effects of Defend, but it may feel like a waste of a healing surge.
+d10 may be too strong if you're also getting the effect of Defend. You could also still roll a 1 on your healing surge. Healing for 1 may not feel like a wasted turn since you still get the effects of Defend, but it may feel like a waste of a healing surge.
 
 ## Improved Cover
 
